@@ -1,0 +1,19 @@
+# Arduino temporary files
+*.tmp
+*.bak
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Build files
+build/
+
+# Arduino cache
+*.elf
+*.bin
